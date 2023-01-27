@@ -1,0 +1,2229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="207.43333mm"
+   height="130.85536mm"
+   viewBox="0 0 207.43334 130.85537"
+   version="1.1"
+   id="svg1340"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Single-Choice-Ballot-Many.svg">
+  <defs
+     id="defs1334" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="324.71332"
+     inkscape:cy="127.70554"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1315"
+     inkscape:window-height="740"
+     inkscape:window-x="51"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata1337">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(69.245248,45.333035)">
+    <g
+       id="g2019"
+       transform="translate(-11.225893,-48.758929)">
+      <rect
+         y="3.6904774"
+         x="3.779752"
+         height="7.5595236"
+         width="22.300594"
+         id="rect3188"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3190"
+         width="22.300594"
+         height="7.5595236"
+         x="3.7797525"
+         y="11.250001" />
+      <text
+         id="text3198"
+         y="9.5869045"
+         x="7.1180549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="9.5869045"
+           x="7.1180549"
+           id="tspan3196"
+           sodipodi:role="line">Ballot</tspan></text>
+      <rect
+         y="18.809526"
+         x="3.779752"
+         height="7.5595236"
+         width="22.300594"
+         id="rect3204"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3208"
+         y="24.604351"
+         x="18.549398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="24.604351"
+           x="18.549398"
+           id="tspan3206"
+           sodipodi:role="line">B</tspan></text>
+      <rect
+         y="26.369049"
+         x="3.779752"
+         height="7.5595236"
+         width="22.300594"
+         id="rect851"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="33.928574"
+         x="3.7797525"
+         height="7.5595236"
+         width="22.300594"
+         id="rect19449"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path849"
+         d="m 14.930049,11.250001 10e-7,30.238097"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text855"
+         y="17.053289"
+         x="18.70462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="17.053289"
+           x="18.70462"
+           id="tspan853"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         id="text19453"
+         y="32.163876"
+         x="18.636887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="32.163876"
+           x="18.636887"
+           id="tspan19451"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.049866"
+         y="39.723404"
+         id="text3202"><tspan
+           sodipodi:role="line"
+           id="tspan3200"
+           x="18.049866"
+           y="39.723404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">D</tspan></text>
+      <g
+         transform="translate(19.163392,7.7674143)"
+         id="g1849">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path1843"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1845"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g1998"
+       transform="translate(141.13631,-48.758929)">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1853"
+         width="22.300594"
+         height="7.5595236"
+         x="-25.513403"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect1855"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-22.1751"
+         y="9.5869045"
+         id="text1859"><tspan
+           sodipodi:role="line"
+           id="tspan1857"
+           x="-22.1751"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1861"
+         width="22.300594"
+         height="7.5595236"
+         x="-25.513403"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-10.743757"
+         y="24.604351"
+         id="text1865"><tspan
+           sodipodi:role="line"
+           id="tspan1863"
+           x="-10.743757"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1867"
+         width="22.300594"
+         height="7.5595236"
+         x="-25.513403"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1869"
+         width="22.300594"
+         height="7.5595236"
+         x="-25.513403"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -14.363106,11.250001 1e-6,30.238097"
+         id="path1871"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-10.588533"
+         y="17.053289"
+         id="text1875"><tspan
+           sodipodi:role="line"
+           id="tspan1873"
+           x="-10.588533"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-10.656267"
+         y="32.163876"
+         id="text1879"><tspan
+           sodipodi:role="line"
+           id="tspan1877"
+           x="-10.656267"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text1883"
+         y="39.723404"
+         x="-11.243288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="-11.243288"
+           id="tspan1881"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         id="g1889"
+         transform="translate(-10.129763,0.20788954)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1885"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           id="path1887"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g2040"
+       transform="translate(-107.9122,-48.758929)">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1893"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect1895"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="42.26984"
+         y="9.5869045"
+         id="text1899"><tspan
+           sodipodi:role="line"
+           id="tspan1897"
+           x="42.26984"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1901"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.701183"
+         y="24.604351"
+         id="text1905"><tspan
+           sodipodi:role="line"
+           id="tspan1903"
+           x="53.701183"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1907"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1909"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 50.081835,11.250001 1e-6,30.238097"
+         id="path1911"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.856407"
+         y="17.053289"
+         id="text1915"><tspan
+           sodipodi:role="line"
+           id="tspan1913"
+           x="53.856407"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.788673"
+         y="32.163876"
+         id="text1919"><tspan
+           sodipodi:role="line"
+           id="tspan1917"
+           x="53.788673"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text1923"
+         y="39.723404"
+         x="53.201653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="53.201653"
+           id="tspan1921"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         transform="translate(54.315179,15.326938)"
+         id="g1935">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path1931"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1933"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g2061"
+       transform="translate(16.819941,-48.758929)">
+      <rect
+         y="3.6904774"
+         x="68.035706"
+         height="7.5595236"
+         width="22.300594"
+         id="rect1939"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1941"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="11.250001" />
+      <text
+         id="text1945"
+         y="9.5869045"
+         x="71.374008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="9.5869045"
+           x="71.374008"
+           id="tspan1943"
+           sodipodi:role="line">Ballot</tspan></text>
+      <rect
+         y="18.809526"
+         x="68.035706"
+         height="7.5595236"
+         width="22.300594"
+         id="rect1947"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1951"
+         y="24.604351"
+         x="82.805351"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="24.604351"
+           x="82.805351"
+           id="tspan1949"
+           sodipodi:role="line">B</tspan></text>
+      <rect
+         y="26.369049"
+         x="68.035706"
+         height="7.5595236"
+         width="22.300594"
+         id="rect1953"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="33.928574"
+         x="68.035706"
+         height="7.5595236"
+         width="22.300594"
+         id="rect1955"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1957"
+         d="m 79.186002,11.250001 10e-7,30.238097"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text1961"
+         y="17.053289"
+         x="82.960571"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="17.053289"
+           x="82.960571"
+           id="tspan1959"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         id="text1965"
+         y="32.163876"
+         x="82.892838"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="32.163876"
+           x="82.892838"
+           id="tspan1963"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.305817"
+         y="39.723404"
+         id="text1969"><tspan
+           sodipodi:role="line"
+           id="tspan1967"
+           x="82.305817"
+           y="39.723404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">D</tspan></text>
+      <g
+         id="g1975"
+         transform="translate(83.419347,22.886462)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1971"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           id="path1973"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g2101"
+       transform="translate(-11.225893,-2.4946424)">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2063"
+         width="22.300594"
+         height="7.5595236"
+         x="3.779752"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="3.7797525"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2065"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="7.1180549"
+         y="9.5869045"
+         id="text2069"><tspan
+           sodipodi:role="line"
+           id="tspan2067"
+           x="7.1180549"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2071"
+         width="22.300594"
+         height="7.5595236"
+         x="3.779752"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.549398"
+         y="24.604351"
+         id="text2075"><tspan
+           sodipodi:role="line"
+           id="tspan2073"
+           x="18.549398"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2077"
+         width="22.300594"
+         height="7.5595236"
+         x="3.779752"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2079"
+         width="22.300594"
+         height="7.5595236"
+         x="3.7797525"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 14.930049,11.250001 10e-7,30.238097"
+         id="path2081"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.70462"
+         y="17.053289"
+         id="text2085"><tspan
+           sodipodi:role="line"
+           id="tspan2083"
+           x="18.70462"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.636887"
+         y="32.163876"
+         id="text2089"><tspan
+           sodipodi:role="line"
+           id="tspan2087"
+           x="18.636887"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text2093"
+         y="39.723404"
+         x="18.049866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="18.049866"
+           id="tspan2091"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         id="g2099"
+         transform="translate(19.163392,7.7674143)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2095"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           id="path2097"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(76.691367,-2.4946424)"
+       id="g2141">
+      <rect
+         y="3.6904774"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2103"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2105"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="11.250001" />
+      <text
+         id="text2109"
+         y="9.5869045"
+         x="42.26984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="9.5869045"
+           x="42.26984"
+           id="tspan2107"
+           sodipodi:role="line">Ballot</tspan></text>
+      <rect
+         y="18.809526"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2111"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2115"
+         y="24.604351"
+         x="53.701183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="24.604351"
+           x="53.701183"
+           id="tspan2113"
+           sodipodi:role="line">B</tspan></text>
+      <rect
+         y="26.369049"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2117"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="33.928574"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2119"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2121"
+         d="m 50.081835,11.250001 1e-6,30.238097"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text2125"
+         y="17.053289"
+         x="53.856407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="17.053289"
+           x="53.856407"
+           id="tspan2123"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         id="text2129"
+         y="32.163876"
+         x="53.788673"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="32.163876"
+           x="53.788673"
+           id="tspan2127"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.201653"
+         y="39.723404"
+         id="text2133"><tspan
+           sodipodi:role="line"
+           id="tspan2131"
+           x="53.201653"
+           y="39.723404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">D</tspan></text>
+      <g
+         id="g2139"
+         transform="translate(54.315179,15.326938)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2135"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           id="path2137"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g2181"
+       transform="translate(-15.610418,-48.758929)">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2143"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2145"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="42.26984"
+         y="9.5869045"
+         id="text2149"><tspan
+           sodipodi:role="line"
+           id="tspan2147"
+           x="42.26984"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2151"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.701183"
+         y="24.604351"
+         id="text2155"><tspan
+           sodipodi:role="line"
+           id="tspan2153"
+           x="53.701183"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2157"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2159"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 50.081835,11.250001 1e-6,30.238097"
+         id="path2161"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.856407"
+         y="17.053289"
+         id="text2165"><tspan
+           sodipodi:role="line"
+           id="tspan2163"
+           x="53.856407"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.788673"
+         y="32.163876"
+         id="text2169"><tspan
+           sodipodi:role="line"
+           id="tspan2167"
+           x="53.788673"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text2173"
+         y="39.723404"
+         x="53.201653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="53.201653"
+           id="tspan2171"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         transform="translate(54.315179,15.326938)"
+         id="g2179">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2175"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2177"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(-106.24911,-48.758929)"
+       id="g2221">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2183"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="68.035706"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2185"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="71.374008"
+         y="9.5869045"
+         id="text2189"><tspan
+           sodipodi:role="line"
+           id="tspan2187"
+           x="71.374008"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2191"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.805351"
+         y="24.604351"
+         id="text2195"><tspan
+           sodipodi:role="line"
+           id="tspan2193"
+           x="82.805351"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2197"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2199"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 79.186002,11.250001 10e-7,30.238097"
+         id="path2201"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.960571"
+         y="17.053289"
+         id="text2205"><tspan
+           sodipodi:role="line"
+           id="tspan2203"
+           x="82.960571"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.892838"
+         y="32.163876"
+         id="text2209"><tspan
+           sodipodi:role="line"
+           id="tspan2207"
+           x="82.892838"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text2213"
+         y="39.723404"
+         x="82.305817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="82.305817"
+           id="tspan2211"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         transform="translate(83.419347,22.886462)"
+         id="g2219">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2215"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2217"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g2261"
+       transform="translate(18.067261,43.769644)">
+      <rect
+         y="3.6904774"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2223"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2225"
+         width="22.300594"
+         height="7.5595236"
+         x="-25.513403"
+         y="11.250001" />
+      <text
+         id="text2229"
+         y="9.5869045"
+         x="-22.1751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="9.5869045"
+           x="-22.1751"
+           id="tspan2227"
+           sodipodi:role="line">Ballot</tspan></text>
+      <rect
+         y="18.809526"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2231"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2235"
+         y="24.604351"
+         x="-10.743757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="24.604351"
+           x="-10.743757"
+           id="tspan2233"
+           sodipodi:role="line">B</tspan></text>
+      <rect
+         y="26.369049"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2237"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="33.928574"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2239"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2241"
+         d="m -14.363106,11.250001 1e-6,30.238097"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text2245"
+         y="17.053289"
+         x="-10.588533"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="17.053289"
+           x="-10.588533"
+           id="tspan2243"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         id="text2249"
+         y="32.163876"
+         x="-10.656267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="32.163876"
+           x="-10.656267"
+           id="tspan2247"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-11.243288"
+         y="39.723404"
+         id="text2253"><tspan
+           sodipodi:role="line"
+           id="tspan2251"
+           x="-11.243288"
+           y="39.723404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">D</tspan></text>
+      <g
+         transform="translate(-10.129763,0.20788954)"
+         id="g2259">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2255"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2257"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g2301"
+       transform="translate(81.075891,-2.4946424)">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2263"
+         width="22.300594"
+         height="7.5595236"
+         x="3.779752"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="3.7797525"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2265"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="7.1180549"
+         y="9.5869045"
+         id="text2269"><tspan
+           sodipodi:role="line"
+           id="tspan2267"
+           x="7.1180549"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2271"
+         width="22.300594"
+         height="7.5595236"
+         x="3.779752"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.549398"
+         y="24.604351"
+         id="text2275"><tspan
+           sodipodi:role="line"
+           id="tspan2273"
+           x="18.549398"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2277"
+         width="22.300594"
+         height="7.5595236"
+         x="3.779752"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2279"
+         width="22.300594"
+         height="7.5595236"
+         x="3.7797525"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 14.930049,11.250001 10e-7,30.238097"
+         id="path2281"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.70462"
+         y="17.053289"
+         id="text2285"><tspan
+           sodipodi:role="line"
+           id="tspan2283"
+           x="18.70462"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.636887"
+         y="32.163876"
+         id="text2289"><tspan
+           sodipodi:role="line"
+           id="tspan2287"
+           x="18.636887"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text2293"
+         y="39.723404"
+         x="18.049866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="18.049866"
+           id="tspan2291"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         id="g2299"
+         transform="translate(19.163392,7.7674143)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2295"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           id="path2297"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(-72.760417,-2.4946424)"
+       id="g2341">
+      <rect
+         y="3.6904774"
+         x="3.779752"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2303"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2305"
+         width="22.300594"
+         height="7.5595236"
+         x="3.7797525"
+         y="11.250001" />
+      <text
+         id="text2309"
+         y="9.5869045"
+         x="7.1180549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="9.5869045"
+           x="7.1180549"
+           id="tspan2307"
+           sodipodi:role="line">Ballot</tspan></text>
+      <rect
+         y="18.809526"
+         x="3.779752"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2311"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2315"
+         y="24.604351"
+         x="18.549398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="24.604351"
+           x="18.549398"
+           id="tspan2313"
+           sodipodi:role="line">B</tspan></text>
+      <rect
+         y="26.369049"
+         x="3.779752"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2317"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="33.928574"
+         x="3.7797525"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2319"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2321"
+         d="m 14.930049,11.250001 10e-7,30.238097"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text2325"
+         y="17.053289"
+         x="18.70462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="17.053289"
+           x="18.70462"
+           id="tspan2323"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         id="text2329"
+         y="32.163876"
+         x="18.636887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="32.163876"
+           x="18.636887"
+           id="tspan2327"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.049866"
+         y="39.723404"
+         id="text2333"><tspan
+           sodipodi:role="line"
+           id="tspan2331"
+           x="18.049866"
+           y="39.723404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">D</tspan></text>
+      <g
+         transform="translate(19.163392,7.7674143)"
+         id="g2339">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2335"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2337"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g2381"
+       transform="translate(50.308628,-2.4946424)">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2343"
+         width="22.300594"
+         height="7.5595236"
+         x="3.779752"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="3.7797525"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2345"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="7.1180549"
+         y="9.5869045"
+         id="text2349"><tspan
+           sodipodi:role="line"
+           id="tspan2347"
+           x="7.1180549"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2351"
+         width="22.300594"
+         height="7.5595236"
+         x="3.779752"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.549398"
+         y="24.604351"
+         id="text2355"><tspan
+           sodipodi:role="line"
+           id="tspan2353"
+           x="18.549398"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2357"
+         width="22.300594"
+         height="7.5595236"
+         x="3.779752"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2359"
+         width="22.300594"
+         height="7.5595236"
+         x="3.7797525"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 14.930049,11.250001 10e-7,30.238097"
+         id="path2361"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.70462"
+         y="17.053289"
+         id="text2365"><tspan
+           sodipodi:role="line"
+           id="tspan2363"
+           x="18.70462"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.636887"
+         y="32.163876"
+         id="text2369"><tspan
+           sodipodi:role="line"
+           id="tspan2367"
+           x="18.636887"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text2373"
+         y="39.723404"
+         x="18.049866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="18.049866"
+           id="tspan2371"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         id="g2379"
+         transform="translate(19.163392,7.7674143)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2375"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           id="path2377"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(-106.24911,43.769644)"
+       id="g2421">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2383"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="68.035706"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2385"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="71.374008"
+         y="9.5869045"
+         id="text2389"><tspan
+           sodipodi:role="line"
+           id="tspan2387"
+           x="71.374008"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2391"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.805351"
+         y="24.604351"
+         id="text2395"><tspan
+           sodipodi:role="line"
+           id="tspan2393"
+           x="82.805351"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2397"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2399"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 79.186002,11.250001 10e-7,30.238097"
+         id="path2401"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.960571"
+         y="17.053289"
+         id="text2405"><tspan
+           sodipodi:role="line"
+           id="tspan2403"
+           x="82.960571"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.892838"
+         y="32.163876"
+         id="text2409"><tspan
+           sodipodi:role="line"
+           id="tspan2407"
+           x="82.892838"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text2413"
+         y="39.723404"
+         x="82.305817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="82.305817"
+           id="tspan2411"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         transform="translate(83.419347,22.886462)"
+         id="g2419">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2415"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2417"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g2461"
+       transform="translate(48.834523,-2.4946424)">
+      <rect
+         y="3.6904774"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2423"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2425"
+         width="22.300594"
+         height="7.5595236"
+         x="-25.513403"
+         y="11.250001" />
+      <text
+         id="text2429"
+         y="9.5869045"
+         x="-22.1751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="9.5869045"
+           x="-22.1751"
+           id="tspan2427"
+           sodipodi:role="line">Ballot</tspan></text>
+      <rect
+         y="18.809526"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2431"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2435"
+         y="24.604351"
+         x="-10.743757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="24.604351"
+           x="-10.743757"
+           id="tspan2433"
+           sodipodi:role="line">B</tspan></text>
+      <rect
+         y="26.369049"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2437"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="33.928574"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2439"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2441"
+         d="m -14.363106,11.250001 1e-6,30.238097"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text2445"
+         y="17.053289"
+         x="-10.588533"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="17.053289"
+           x="-10.588533"
+           id="tspan2443"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         id="text2449"
+         y="32.163876"
+         x="-10.656267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="32.163876"
+           x="-10.656267"
+           id="tspan2447"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-11.243288"
+         y="39.723404"
+         id="text2453"><tspan
+           sodipodi:role="line"
+           id="tspan2451"
+           x="-11.243288"
+           y="39.723404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">D</tspan></text>
+      <g
+         transform="translate(-10.129763,0.20788954)"
+         id="g2459">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2455"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2457"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(-41.993156,-2.4946424)"
+       id="g2501">
+      <rect
+         y="3.6904774"
+         x="3.779752"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2463"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2465"
+         width="22.300594"
+         height="7.5595236"
+         x="3.7797525"
+         y="11.250001" />
+      <text
+         id="text2469"
+         y="9.5869045"
+         x="7.1180549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="9.5869045"
+           x="7.1180549"
+           id="tspan2467"
+           sodipodi:role="line">Ballot</tspan></text>
+      <rect
+         y="18.809526"
+         x="3.779752"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2471"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2475"
+         y="24.604351"
+         x="18.549398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="24.604351"
+           x="18.549398"
+           id="tspan2473"
+           sodipodi:role="line">B</tspan></text>
+      <rect
+         y="26.369049"
+         x="3.779752"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2477"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="33.928574"
+         x="3.7797525"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2479"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2481"
+         d="m 14.930049,11.250001 10e-7,30.238097"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text2485"
+         y="17.053289"
+         x="18.70462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="17.053289"
+           x="18.70462"
+           id="tspan2483"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         id="text2489"
+         y="32.163876"
+         x="18.636887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="32.163876"
+           x="18.636887"
+           id="tspan2487"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="18.049866"
+         y="39.723404"
+         id="text2493"><tspan
+           sodipodi:role="line"
+           id="tspan2491"
+           x="18.049866"
+           y="39.723404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">D</tspan></text>
+      <g
+         transform="translate(19.163392,7.7674143)"
+         id="g2499">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2495"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2497"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g2541"
+       transform="translate(-107.9122,43.769644)">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2503"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2505"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="42.26984"
+         y="9.5869045"
+         id="text2509"><tspan
+           sodipodi:role="line"
+           id="tspan2507"
+           x="42.26984"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2511"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.701183"
+         y="24.604351"
+         id="text2515"><tspan
+           sodipodi:role="line"
+           id="tspan2513"
+           x="53.701183"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2517"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2519"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 50.081835,11.250001 1e-6,30.238097"
+         id="path2521"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.856407"
+         y="17.053289"
+         id="text2525"><tspan
+           sodipodi:role="line"
+           id="tspan2523"
+           x="53.856407"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.788673"
+         y="32.163876"
+         id="text2529"><tspan
+           sodipodi:role="line"
+           id="tspan2527"
+           x="53.788673"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text2533"
+         y="39.723404"
+         x="53.201653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="53.201653"
+           id="tspan2531"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         transform="translate(54.315179,15.326938)"
+         id="g2539">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2535"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2537"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(15.156843,43.769644)"
+       id="g2581">
+      <rect
+         y="3.6904774"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2543"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2545"
+         width="22.300594"
+         height="7.5595236"
+         x="38.931538"
+         y="11.250001" />
+      <text
+         id="text2549"
+         y="9.5869045"
+         x="42.26984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="9.5869045"
+           x="42.26984"
+           id="tspan2547"
+           sodipodi:role="line">Ballot</tspan></text>
+      <rect
+         y="18.809526"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2551"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2555"
+         y="24.604351"
+         x="53.701183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="24.604351"
+           x="53.701183"
+           id="tspan2553"
+           sodipodi:role="line">B</tspan></text>
+      <rect
+         y="26.369049"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2557"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="33.928574"
+         x="38.931538"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2559"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2561"
+         d="m 50.081835,11.250001 1e-6,30.238097"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text2565"
+         y="17.053289"
+         x="53.856407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="17.053289"
+           x="53.856407"
+           id="tspan2563"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         id="text2569"
+         y="32.163876"
+         x="53.788673"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="32.163876"
+           x="53.788673"
+           id="tspan2567"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.201653"
+         y="39.723404"
+         id="text2573"><tspan
+           sodipodi:role="line"
+           id="tspan2571"
+           x="53.201653"
+           y="39.723404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">D</tspan></text>
+      <g
+         id="g2579"
+         transform="translate(54.315179,15.326938)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2575"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           id="path2577"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(-44.714587,43.769644)"
+       id="g2621">
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2583"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="3.6904774" />
+      <rect
+         y="11.250001"
+         x="68.035706"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2585"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="71.374008"
+         y="9.5869045"
+         id="text2589"><tspan
+           sodipodi:role="line"
+           id="tspan2587"
+           x="71.374008"
+           y="9.5869045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">Ballot</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2591"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="18.809526" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.805351"
+         y="24.604351"
+         id="text2595"><tspan
+           sodipodi:role="line"
+           id="tspan2593"
+           x="82.805351"
+           y="24.604351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">B</tspan></text>
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2597"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="26.369049" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2599"
+         width="22.300594"
+         height="7.5595236"
+         x="68.035706"
+         y="33.928574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 79.186002,11.250001 10e-7,30.238097"
+         id="path2601"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.960571"
+         y="17.053289"
+         id="text2605"><tspan
+           sodipodi:role="line"
+           id="tspan2603"
+           x="82.960571"
+           y="17.053289"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.892838"
+         y="32.163876"
+         id="text2609"><tspan
+           sodipodi:role="line"
+           id="tspan2607"
+           x="82.892838"
+           y="32.163876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">C</tspan></text>
+      <text
+         id="text2613"
+         y="39.723404"
+         x="82.305817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="39.723404"
+           x="82.305817"
+           id="tspan2611"
+           sodipodi:role="line">D</tspan></text>
+      <g
+         transform="translate(83.419347,22.886462)"
+         id="g2619">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2615"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2617"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g2661"
+       transform="translate(79.601785,-48.758929)">
+      <rect
+         y="3.6904774"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2623"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2625"
+         width="22.300594"
+         height="7.5595236"
+         x="-25.513403"
+         y="11.250001" />
+      <text
+         id="text2629"
+         y="9.5869045"
+         x="-22.1751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="9.5869045"
+           x="-22.1751"
+           id="tspan2627"
+           sodipodi:role="line">Ballot</tspan></text>
+      <rect
+         y="18.809526"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2631"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2635"
+         y="24.604351"
+         x="-10.743757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="24.604351"
+           x="-10.743757"
+           id="tspan2633"
+           sodipodi:role="line">B</tspan></text>
+      <rect
+         y="26.369049"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2637"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="33.928574"
+         x="-25.513403"
+         height="7.5595236"
+         width="22.300594"
+         id="rect2639"
+         style="fill:#d7ce9b;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2641"
+         d="m -14.363106,11.250001 1e-6,30.238097"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text2645"
+         y="17.053289"
+         x="-10.588533"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="17.053289"
+           x="-10.588533"
+           id="tspan2643"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         id="text2649"
+         y="32.163876"
+         x="-10.656267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+           y="32.163876"
+           x="-10.656267"
+           id="tspan2647"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-11.243288"
+         y="39.723404"
+         id="text2653"><tspan
+           sodipodi:role="line"
+           id="tspan2651"
+           x="-11.243288"
+           y="39.723404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332">D</tspan></text>
+      <g
+         transform="translate(-10.129763,0.20788954)"
+         id="g2659">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -12.359831,12.270537 5.1026782,5.102679"
+           id="path2655"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2657"
+           d="m -7.2571528,12.270537 -5.1026782,5.102679"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
