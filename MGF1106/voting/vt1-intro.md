@@ -18,7 +18,7 @@ The general principle is that if we give more information then the group should 
 The way that a voter indicates their choice is called a **ballot**.  **Single choice ballots** are what you are most familiar with.  In these ballots you simply list your top choice for the winner.  A **(full) preference ballot** has voters rank all of the candidates from first to last.  A **truncated preference ballot** has voters rank some but possibly not all of the candidates.  A single choice ballot can be thought of as a (very) truncated preference ballot.
 
 <figure>
-    <img src="{{imgdir}}/Ballots.svg" alt="Various Ballot Types"/>
+    <img src="{{imgdir}}/Ballots.svg" alt="Various Ballot Types" class="center"/>
     <figcaption> A single choice ballot (left), preference ballot (mid) and truncated preference ballot (right)</figcaption>
 </figure>
 The image above shows how a single choice (left), full preference (center), and truncated preferece (right) ballot might look for an election with the four candidates A,B,C, and D.  In the truncated ballot, the voter has chosen not to rank candidate C.
@@ -27,7 +27,7 @@ Truncated preference ballots are useful when there is a large field of candidate
 
 <figure>
     <img src="{{imgdir}}/maine_irv_ballot.png" alt="Various Ballot Types"/>
-    <figcaption> A real preference ballot from Portland, Maine.</figcaption>
+    <figcaption class="center"> A real preference ballot from Portland, Maine.</figcaption>
 </figure>
 This mayoral election in Portland Maine had 15 candidates, and in such elections it is unlikely for voters to be familiar enough with all of them to give a full ranking.  The ballot above is a type of truncated ballot as you can see in the instructions that you "rank as many or as few candidates as you wish."
 

@@ -4,10 +4,6 @@ usemathjax: true
 title: "VT3 - The Borda Count Method"
 ---
 
-<script type="text/javascript" async
- src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 {% assign basedir = site.url| append: "/MGF1106/voting" %}
 {% assign imgdir = basedir| append: "/images" %}
 
@@ -138,5 +134,66 @@ At this level of study, the full IIA criterion is difficult to work with.  So we
     <figcaption> The original preference schedule (left), a modification where D is moved last (D), and a modification where D is removed (right).</figcaption>
 </figure>
 
+In the original election we have
+* A has 51×4+49 = 253 points,
+* B has 100×3 = 300 points,
+* C has 49×4+51×2 = 298 points, and
+* D has 51+49×2 = 149 points.
 
-GO BACK AND DO TEAMING
+So B (barely) wins the election.  Now imagine a scenario where candidate D is rocked by a scandal and is forced to withdraw from the election.  Then our preference schedule looks like the one on the right in the image above.  In this new scenario we have
+* A has 51×3+49 = 202 points,
+* B has 100×2 = 200 points, and
+* C has 49×3+51×1 = 198 points.
+
+Now A wins the election!  And this would seem unfair to B supporters.  Why should the withdrawal of the last place candidate change the result of the election?  A similar effect happens even if D is just moved to last place on all ballots, but that is left as an exercise to the reader.
+
+IIA may make sense at a glance.  We don't want the introduction/removal of candidates to change the rankings of the other candidates.  However, a closer look will show that IIA might be asking for a little bit too much. We'll look more at IIA in other sections, especially when we give a more thorough treatment to all of the fairness criteria.
+
+## Teaming
+We saw how the removal of a candidate could shake up an election.  The other side of this is the the introduction of new candidates can do the same.  Imagine instead that we start in the scenario above where only A, B, and C are running.  B supporters might urge a very unpopular candidate such as D to run, knowing that the result will make candidate B.  Teaming is a version of this where a party will enter multiple, similar candidates to improve their changes of victory.  You won't see this in plurality elections because dividing your voters up is clearly a problem, but the Borda count is quite susceptible to teaming.
+
+### Teaming Example
+Imagine a situation from US polities where Republicans and Democrats evenly split the electorate.  Instead of the usual plurality voting that we do in the US, the election will be held with the Borda count.  The Democratic party will send two candidates into the election, D1 and D2, while the Republican party will just send one candidate, R.  The preference schedule may look something like this.
+
+|\# Voters | 25 | 25 | 45 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| 1st | R | R | D1 | D2 |
+| 2nd | D1 | D2 | D2 | D1 |
+| 3rd | D2 | D1 | R | R |
+
+Here is a more detailed description of the preference table.
+* The first two columns are the 50% of the population who support the R party.  They randomly choose whether to put D1 or D2 in second place.
+* The second two columns are the 50% of the population who support the D party.  90% of them (45 of 50) support D1 and 10% of them support D2.  All of them put the R candidate in last place
+
+And we can see the results are as follows:
+* R gets 50×3+50 = 200 points,
+* D1 gets 45×3+30×2+25 = 220 points, and
+* D2 gets 5×3+70×2+25 = 180 points.
+
+Now you may think that this is just a matter of R supporters choosing their second place votes 50-50 when they should just put the stronger D party candidate last.  This is an example of tactical voting called **burying**.  We'll see that this doesn't work either!
+
+|\# Voters | 50 | 45 | 5 |
+| :---: | :---: | :---: | :---: |
+| 1st | R | D1 | D2 |
+| 2nd | D2 | D2 | D1 |
+| 3rd | D1 | R | R |
+
+And now the results are can see the results are as follows:
+* R gets 50×3+50 = 200 points,
+* D1 gets 45×3+5×2+50 = 195 points, and
+* D2 gets 5×3+95×2 = 205 points.
+
+This should make some sense in the context of computing total points.  No matter what, the R candidate will get 50 first place and 50 last place votes for 200 points.  We can compute that there are 100×6=600 points. It is possible that the R voters perfectly split their votes between D1 and D2 so that they both get 200 points resulting in a 3-way tie, but if they don't vote perfectly, one of D1 or D2 will have more than 200 points.  In practice, it is impossible to do this because it also depends on how the Democrats split their support between D1 and D2.  So teaming has turned a 50-50 tie into an almost-assured win for one party.
+
+## Learning Objectives
+* Compute the ranking of candidates according to the Borda count method.
+* Explain which fairness criteria are satisfied and not satisfied by the Borda count method.
+  * The Borda count method does not satisfy the majority criterion.
+  * The Borda count method does satisfy the majority loser criterion.
+  * The Borda count method does not satisfy the Condorcet criterion.
+* Demonstrate how teaming works under the Borda count.
+* Determine how voters may vote tactically (burying) under the plurality method. 
+
+[Next: VT4 - Elimination Methods]({{basedir}}/vt4-elimination.html)
+
+

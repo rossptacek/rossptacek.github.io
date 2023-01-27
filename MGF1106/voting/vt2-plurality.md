@@ -126,7 +126,7 @@ The tendency for third parties to get squeezed out for this and other reasons is
 * Compute the ranking of candidates according to the plurality method.
 * Explain which fairness criteria are satisfied and not satisfied by the plurality method.
   * The plurality method satisfies the majority criterion.
-  * The plurality method does not satisfy the majority lose criterion.
+  * The plurality method does not satisfy the majority loser criterion.
   * The plurality method does not satisfy the Condorcet criterion.
 * Determine how voters may vote tactically (compromise) under the plurality method. 
 
