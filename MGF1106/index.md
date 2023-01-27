@@ -12,3 +12,5 @@ title: "MGF1106 Overview"
 
 * Voting Theory
   * [VT1: Introduction to Elections]({{basedir}}/voting/vt1-intro.html)
+  * [VT2: The Plurality Method]({{basedir}}/voting/vt2-plurality.html)
+  * [VT3: The Borda Count Method]({{basedir}}/voting/vt3-borda.html)

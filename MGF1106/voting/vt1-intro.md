@@ -4,10 +4,6 @@ usemathjax: true
 title: "VT1: Introduction to Elections"
 ---
 
-<script type="text/javascript" async
- src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 {% assign basedir = site.url| append: "/MGF1106/voting" %}
 {% assign imgdir = basedir| append: "/images" %}
 
@@ -211,4 +207,4 @@ In the above election, we just flipped the rank of A and B in the second column 
 * Compute information from preference schedules (number of votes, pairwise comparison)
 * Identify when a voting system fails to meet the majority criterion
 
-[Next: VT2 - Plurality Method]({{basedir}}/vt2-plurality.md)
+[Next: VT2 - Plurality Method]({{basedir}}/vt2-plurality.html)
