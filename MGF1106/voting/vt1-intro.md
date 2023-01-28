@@ -26,7 +26,7 @@ The image above shows how a single choice (left), full preference (center), and 
 Truncated preference ballots are useful when there is a large field of candidates.  For example, a judge in a talent show may only list their top three choices out of a large pool of performers rather than rank the whole field.  Or when choosing a restaurant to eat at you need not rank every restaurant in the city.  Truncated ballots are useful when there are a large number of candidates.
 
 <figure>
-    <img src="{{imgdir}}/maine_irv_ballot.png" alt="Various Ballot Types"/>
+    <img src="{{imgdir}}/maine_irv_ballot.png" alt="Ranked Choice Voting ballot"/>
     <figcaption class="center"> A real preference ballot from Portland, Maine.</figcaption>
 </figure>
 This mayoral election in Portland Maine had 15 candidates, and in such elections it is unlikely for voters to be familiar enough with all of them to give a full ranking.  The ballot above is a type of truncated ballot as you can see in the instructions that you "rank as many or as few candidates as you wish."
@@ -70,6 +70,21 @@ American Idol is a long-running American television show where amateur singers c
 * **Ballot:** The ballot is a single-choice ballot.  Ballots are cast in each episode, and a voter may cast multiple ballots for a single episode.
 * **Outcome:**  The show ends with a single winner, but it's easy to imagine that it produces a ranking of the candidates.  The first singer who is eliminated is in last place, the next singer who is eliminated is in second-to-last place, and so on until the last one standing is the winner.
 * **Voting Method:**  There are a few interesting features of this.  As already mentioned, American Idol does not use the "one person one vote" standard that most elections follow.  The second is that voting proceeds by rounds.  Typically, elections with multiple rounds are called runoff elections.  We'll study voting methods called elimination methods which are similar to what is done for American Idol.
+
+### Example: Mario Kart
+Many sports contests use a scoring system to determine a winner or a ranking of players.  This fits the mathematical definition of an election!  In Mario Kart, players race through a certain number of tracks.  In each track, they are awarded points depending on the position in which they finish.
+
+<img src="{{imgdir}}/MarioKart-Results.jpg" alt="Results screen of a Mario Kart race">
+
+After the races are over, players are ranked based on their point totals.
+* **Voters:** This is a little strange for Mario Kart.  In some sense, the tracks that the players race on are the voters because each track gives a full ranking of the players.
+* **Candidates:**  The candidates are people competing in the game.
+* **Ballot:** The ballot is a full preference ballot.  Candidates are ranked on each track by their finishing position.
+* **Outcome:**  The result is a full ranking of the racers based on the total number of points which they have accumulated.
+* **Voting Method:**  Voting methods where each player is awarded points based on their ranking on each ballot are called **Borda counts**.  This is very similar to the previous Cy Young example.  We will study this type of voting method in detail.
+
+## Tiebreakers
+It is unavoidable that voting methods will sometimes produce a tie.  Some additional procedure needs to be tacked on to determine how to break the tie.  We will not go into much detail on tie-breaking procedures because they can become overly complicated.  We will just note that preference ballots provide more ability to break ties than single choice ballots.  With single choice ballots there is nothing you can do if two candidates have the same number of votes.  On the other hand, with preference ballots you can start looking at how the candidates fared in other ballot positions.  Among the tied candidates you could choose the one with fewer last place votes, the most first place votes, or any number of procedures.
 
 ## Aggregating Ballots
 First let's look at how single choice ballots are aggregated.  Let's say for example that the following 19 ballots were cast.

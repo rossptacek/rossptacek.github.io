@@ -211,7 +211,7 @@ The result of this all is that the smallest dominating set, the Smith set, is ju
 ## Learning Objectives
 * Compute the ranking of candidates according to Copeland's method.
 * Explain which fairness criteria are satisfied and not satisfied by Copeland's method.
-  * Satisfies all criteria we've discussed except for IIA
+  * Satisfies all criteria we've discussed except for IIA.
 * Understand how tactical voting (particularly pushover voting) can impact Copeland's method.
 * (Advanced) Compute the Smith set of an election.
 

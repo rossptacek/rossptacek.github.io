@@ -1,7 +1,7 @@
 ---
 layout: page
 usemathjax: true
-title: "VT5 - Condorcet Methods"
+title: "VT6 - Fairness in Election"
 ---
 
 {% assign basedir = site.url| append: "/MGF1106/voting" %}
@@ -61,3 +61,136 @@ RCV proponents argue that Condorcet methods produce middle of the road candidate
 | 3rd | B | A | B | A |
 
 In the preference schedule above, candidates A and B are from the "major parties" while C is a more centrist third party.  Under plurality, tactical voting incentivizes third party supporters to make a compromising vote.  In a Condorcet method, the third party wins every time.  So you'll always have a candidate that 19% of the electorate actually like.  Remember, a ballot of A,C,B doesn't mean that the voter sort of likes C.  It could be that the ballot hates C but hates B even more.  It isn't hard for the Condorcet candidate to actually be somewhat unpopular.
+
+The discussion of the IIA and Condorcet criteria highlights the importance of math and the interplay between the math and other disciplines.  The math cannot tell us with certainty what the right fairness criteria to adopt are.  Once there is a proposed set of fairness criteria, then we can use math to analyze what is forced by the choice of criteria.  Arrow's theorem is an extreme example which shows that some fairly innocuous sounding critera are actually mutually exclusive!  Any revisions to the fairness criteria would require new analysis.
+
+## Assessing Fairness
+At a glance, here is a table that shows fairness violations.
+
+|       | Majority | Condorcet | Monotonicity | IIA |
+| :---: | :---: | :---: | :---: | :---: |
+| Plurality |  | X | | X |
+| Borda count | X | X | | X |
+| IRV/RCV |  | X | X | X |
+| Copeland |  |  | | X |
+
+An X in the cell indicates that a method violates the corresponding criterion.  We see that all of the methods violate the IIA criterion, most violate the Condorcet criterion, but violations of the monotonicity and majority criteria are rare.
+
+It would be a mistake to conclude from the table that Copeland's method is the most fair since it only has one fairness violation.  Remember that there are [many possible](https://en.wikipedia.org/wiki/Voting_criteria) fairness criteria.  We have only picked these four because they are the ones used in Arrow's theorem.  These four are just a few out of many possible criteria, and it's not hard to find some that Copeland's method fails.  Copeland's method also had issues with ties and would need to fall back on some other method anyway!  It also isn't the case that all fairness criteria have equal weight.  We've already argued that the IIA criterion is maybe not that important while the majority criterion seems vital at least in political elections.  Fairness criteria just provide standards we can use to analyze voting methods, an results like Arrow's say that using them to declare a best method is misguided.
+
+What follows is a brief catalog of how each method either satisfies or fails each of the four major fairnes criteria.  In many cases, the details of examples have been worked out in previous sections.
+
+## The Majority Criterion Summary
+The majority criterion says that if a voting method is fair then it will always elect the majority candidate if there is one.  The majority candidate is one which has more than 50% of the first place votes.
+* The plurality method satisfies the majority criterion.  Having a majority of first place votes also means that you have the most first place votes compared to anyone else.
+* Instant Runoff Voting and Ranked Choice Voting satisfy the majority criterion the same way that plurality does.  The elimination aspect of these methods is not needed to declare a winner if there is a majority candidate.
+* Copeland's method (and any Condorcet method) satisfy the majority criterion.  The majority candidate is automatically the Condorcet candidate.
+
+### Borda Violation
+We saw this example in the section on the [Borda count]({{basedir}}/vt3-borda.html).
+
+|\# Voters | 51 | 49 |
+| :---: | :---: | :---: |
+| 1st | A | C |
+| 2nd | B | B |
+| 3rd | C | D |
+| 4th | D | A |
+
+Candidate B is the winner in the Borda count, but candidate A is the majority candidate, so this is a violation.
+
+## The Condorcet Criterion Summary
+The Condorcet criterion says if a voting method is fair then that it will always elect the Condorcet candidate should one exist.  The Condorcet criterion is stronger than the majority criterion.  The majority candidate is automatically the Condorcet candidate, so if a method fails the majority criterion then it automatically fails the Condorcet criterion as well.  In particular this means that the Borda count fails the Condorcet criterion.  Of the methods we studied, only Copeland's method satisfies the Condorcet criterion.
+
+### Plurality and IRV Violation
+We saw this example in the section on plurality.
+
+|\# Voters | 10 | 7 | 6 |
+| :---: | :---: | :---: | :---: |
+| 1st | A | C | B |
+| 2nd | B | B | C |
+| 3rd | C | A | A |
+
+B is the Condorcet candidate, but A wins under plurality.  With IRV, B is the first eliminated with only 6 first place votes, and then C wins.  So both methods violate the Condorcet criterion.
+
+### The Monotonicity Criterion Summary
+The monotonicity criterion says that if a voting method is fair then improving a candidate's ranking on some ballots (without changing the order of the other candidates) should not lower that candidate's ranking in the election.
+* The plurality method satisfies the monotonicity criterion.  Improving a candidate's ranking on some ballots can only increase the number of first place votes and will not increase anyone else's first place vote count.  Therefore this in turn improves their ranking.
+* The Borda count method satisfies the monotonicity criterion.  Improving a candidate's ranking on some ballots will only improve that candidate's Borda points.  No other candidate's points will increase from this change, so the improved candidate's final ranking can only increase.  The image below shows how improving C increases only C's points while either decreasing or not changing the other candidates.
+<figure>
+    <img src="{{imgdir}}/BordaMove.svg" alt="Borda points in a monotonic change."/>
+    <figcaption> Increasing candidate C on a ballot improves C's points and does not improve any other candidate's points.
+    </figcaption>
+</figure>
+* Copeland's method satisfies the monotonicity criterion.  Improving a candidate's ranking without changing the relative order of the other candidates will only improve that candidate's head-to-head matchups without changing any matchups which do not involve that candidate.  This can only improve that candidate's ranking in the election's outcome.
+
+### Instant Runoff Voting Violation
+We covered this example in the section on [Instant Runoff Voting]({{basedir}}/vt4-elimination.html).  Consider the following preference schedule.
+
+|\# Voters | 9 | 8 | 7 | 2 |
+| :---: | :---: | :---: | :---: | :---: |
+| 1st | A | B | C | C |
+| 2nd | B | A | B | A |
+| 3rd | C | C | A | B |
+
+B is eliminated, and this causes A to win.  If the voters in the last column improve A's position we get this new preference schedule.
+
+|\# Voters | 9 | 8 | 7 | **2** |
+| :---: | :---: | :---: | :---: | :---: |
+| 1st | A | B | C | **A** |
+| 2nd | B | A | B | **C** |
+| 3rd | C | C | A | **B** |
+
+But this does not help A.  Now C is first to be eliminated and A wins.  This violates monotonicity.
+
+## IIA Criterion Summary
+The IIA Criterion says that if a voting method is fair then a candidate other than the winner dropping out should not change the winner.  This is a conceptual simplification of the IIA criterion you'll find in voting theory literature, but it works well enough for our purposes.  You can review the full explanation in the Borda count section.  Every method that we covered in this class fails the IIA criterion.
+
+For most methods, we can easily find a violation by beginning with a Condorcet cycle (A beats B, B beats C, and C beats A).  Whoever wins the election we eliminate the candidate that the winner beats head-to-head.  The remaining candidate will now beat the old winner.
+
+### Plurality and IRV Violation
+In the following election, A wins according to plurality.
+
+|\# Voters | 10 | 9 | 8 |
+| :---: | :---: | :---: | :---: |
+| 1st | A | B | C |
+| 2nd | B | C | A |
+| 3rd | C | A | B |
+
+If B (an irrelevant alternative) were to dropout, then this would make C the winner.
+
+## Borda Count Violation
+This example is covered in detail in the section on the [Borda count]({{basedir}}/vt3-borda.html).
+
+|\# Voters | 51 | 49 |
+| :---: | :---: | :---: |
+| 1st | A | C |
+| 2nd | B | B |
+| 3rd | C | D |
+| 4th | D | A |
+
+Candidate B is the winner by the Borda count.  Removing D (an irrelevant alternative) from the election and recalculating points will have A win.  
+
+### Copeland's Method Violation
+Copeland's method requires more care to find a violation, but we already did this work in the section on Condorcet methods.  Here is the preference schedule from that election.
+
+|\# Voters | 11 | 9 | 7 | 6 | 3 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1st | B | A | D | C | D | 
+| 2nd | A | C | B | A | C |
+| 3rd | C | D | C | D | B |
+| 4th | D | B | A | B | A |
+
+You can check that A wins under Copeland's method.  If D drops out, then B wins.  The details are worked out fully in the [Condorcet method section]({{basedir}}/vt5-condorcet.html).
+
+## Why Preference Voting?
+We've spent so much time studying voting methods that rely on preference ballots not because it's the perfect best way to vote but because it's just about the simplest way to improve on the single choice ballots that are prevalent in the US.  It's not a big conceptual jump from "pick your favorite candidate" to "rank the candidates," but the small change leads to many interesting new phenomena to analyze.  It is also likely that preference ballots will become common within our lifetimes.  Preference ballots are already in use in local elections in [various parts of the US](https://en.wikipedia.org/wiki/Ranked-choice_voting_in_the_United_States), and their use is only growing more widespread.  It's likely that you'll have to interact with it regularly in your life, so it's essential to be able to think critically about them.
+
+## Why Not Preference Voting?
+It's clear that preference ballots are more expressive than single choice ballots.  While this does create some challenges with how to appropriately aggregate the results, it's worth it.  However, there are still some issues with how preference ballots express voter attitudes.  We saw one of these prominently when we discussed criticism of Condorcet methods, namely that two voters with very different preferences can have the same preference ballot.  The fact that a voter orders candidates A,B,C does not mean much about their absolute preferences.  The ballot A,B,C could mean loving A, hating C, and being indifferent about B or it could mean liking A and hating B just slightly less than C.  It even be that the voter is fairly positive about all three but has a slight preference for A over B over C.  You can come up with any number of scenarios that would all result in the same ballot being cast.
+
+There's also a slight argument that the increased complexity of the ballot may discourage voters or increase misvoting.
+<figure>
+    <img src="{{imgdir}}/maine_irv_ballot.png" alt="Ranked Choice Voting ballot"/>
+    <figcaption class="center"> A real preference ballot from Portland, Maine.</figcaption>
+</figure>
+You can see that the ballot is a little more imposing than a standard single choice ballot.  Of course, the only way to overcome this issue is through practice and education and that's why we're here!
