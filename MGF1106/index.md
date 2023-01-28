@@ -11,6 +11,8 @@ title: "MGF1106 Overview"
 {% assign basedir = site.url|append: "/MGF1106" %}
 
 * Voting Theory
-  * [VT1: Introduction to Elections]({{basedir}}/voting/vt1-intro.html)
-  * [VT2: The Plurality Method]({{basedir}}/voting/vt2-plurality.html)
-  * [VT3: The Borda Count Method]({{basedir}}/voting/vt3-borda.html)
+  * [VT1 - Introduction to Elections]({{basedir}}/voting/vt1-intro.html)
+  * [VT2 - The Plurality Method]({{basedir}}/voting/vt2-plurality.html)
+  * [VT3 - The Borda Count Method]({{basedir}}/voting/vt3-borda.html)
+  * [VT4 - Elimination Methods]({{basedir}}/voting/vt4-elimination.html)
+  * [VT5 - Condorcet Methods]({{basedir}}/voting/vt5-condorcet.html)
