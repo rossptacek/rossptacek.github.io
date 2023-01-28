@@ -16,3 +16,4 @@ title: "MGF1106 Overview"
   * [VT3 - The Borda Count Method]({{basedir}}/voting/vt3-borda.html)
   * [VT4 - Elimination Methods]({{basedir}}/voting/vt4-elimination.html)
   * [VT5 - Condorcet Methods]({{basedir}}/voting/vt5-condorcet.html)
+  * [VT6 - Condorcet Methods]({{basedir}}/voting/vt6-fairness.html)
