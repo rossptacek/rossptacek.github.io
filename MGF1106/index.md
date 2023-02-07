@@ -17,3 +17,6 @@ title: "MGF1106 Overview"
   * [VT4 - Elimination Methods]({{basedir}}/voting/vt4-elimination.html)
   * [VT5 - Condorcet Methods]({{basedir}}/voting/vt5-condorcet.html)
   * [VT6 - Condorcet Methods]({{basedir}}/voting/vt6-fairness.html)
+* Weighted Voting Systems
+  * [WVS1 - Introduction to Weighted Voting Systems]({{basedir}}/weightedvoting/wvs1-intro.html)
+  * [WVS2 - Banzhaf Power]({{basedir}}/weightedvoting/wvs2-banzhaf.html)

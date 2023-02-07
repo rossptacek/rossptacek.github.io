@@ -76,7 +76,7 @@ There does not need to be a Condorcet Candidate.  It is possible for the pairwis
 In the simple election above we see how this might happen.  A beats B (2 to 1) and B beats C (2 to 1).  It's tempting to think that winning a pairwise comparison makes that candidate better than their opponent.  So A would be better than B and B would be better than C.  If that were the case, we would be confident to say that A is better than C.  If preferences were **transitive** we could make this assertion, but if you look at the preference schedule you can clearly see that C is actually preferred to A (2 to 1).  So the preferences are **nontransitive**.  When preferences are nontransitive, there is a cycle of candidates who beat eachother like in Rock Paper Scissors.  
 
 <figure>
-    <img src="{{imgdir}}/Condorcet-Cycle.png" alt="Various Ballot Types"/>
+    <img src="{{imgdir}}/Condorcet-Cycle.svg" alt="A Condorcet cycle."/>
     <figcaption> A beats B, B beats C, and C beats A.</figcaption>
 </figure>
 

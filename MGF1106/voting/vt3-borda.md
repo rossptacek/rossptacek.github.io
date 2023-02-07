@@ -191,8 +191,9 @@ This should make some sense in the context of computing total points.  No matter
   * The Borda count method does not satisfy the majority criterion.
   * The Borda count method does satisfy the majority loser criterion.
   * The Borda count method does not satisfy the Condorcet criterion.
+  * The Borda count method does not satisfy the IIA criterion.
 * Demonstrate how teaming works under the Borda count.
-* Determine how voters may vote tactically (burying) under the plurality method. 
+* Determine how voters may vote tactically (burying) under the Borda count method. 
 
 [Next: VT4 - Elimination Methods]({{basedir}}/vt4-elimination.html)
 

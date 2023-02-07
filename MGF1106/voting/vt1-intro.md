@@ -135,7 +135,7 @@ Just like a single preference ballot can be put in printed names format, a prefe
 | C | 3rd |  1st | 3rd | 2nd |
 | D | 4th | 3rd | 2nd |  1st |
 
-The same information is present in each table, but we will prefer the first version, not the printed names version, for this class.  
+The same information is present in each table, but we will prefer the first version, not the printed names version, for this class.
 
 ### Example: Reading Information From Preference Schedules
 We'll use the preference schedule from above: 
@@ -216,10 +216,49 @@ One important note about the majority criterion which will also apply to every o
 
 In the above election, we just flipped the rank of A and B in the second column (bolded).  Now A wins the election because they have the fewest last place votes (0).  This is **not** evidence that the method satisfies the criterion because we have an example of another election where it fails!
 
+## How many Ballots?
+When making preference schedules, we should wonder how many columns the preference schedule will have.  Equivalently, how many different ways of filling out a ballot are there?  In mathematics, an ordering (ranking) of a set is called a **permutation**.  So the pure mathematical question we're asking is "How many permutations does a set have?"  Of course the answer depends on the size of the set (the number of candidates).  We'll show the answer first and then work out how it was arrived out.
+
+<div class="theorem">
+There are $$N!=N\times(N-1)\times\cdots\times2\times1$$ ways to fill out a preference ballot with \(N\) candidates.
+
+</div>
+
+If there were only one candidate, then there would only be one ballot, and $$1!=1$$.  We also can see that there are only $$2=2!$$ ways to fill out a ballot when there are two candidates.  So so far the theorem checks out.
+
+<figure>
+    <img src="{{imgdir}}/ballots2.svg" alt="Preference ballots with two candidates">
+    <figcaption>The only two ways to fill out a preference ballot with two candidates.</figcaption>
+</figure>
+
+We can think of this as the following two steps.
+1. There are only two choices for who to rank first on the ballot.
+2. Once we've chosen one candidate to be first, there are no further choices to be made because there is only one candidate left.
+
+The particular names do not matter.  We have established that whenever there are two candidates to rank, there are exactly two ways to do so.  This exemplifies our overall strategy for counting ballot types.  We will divide the types up into groups based on who is in first place on the ballot, and then we'll figure out how many ballots are in each group.  For three candidates it works out as follows.
+
+<figure>
+    <img src="{{imgdir}}/ballots3-color.svg" alt="Preference ballots with three candidates">
+    <figcaption>There are six ways to fill out a preference ballot with three candidates.</figcaption>
+</figure>
+
+1. There are three groups corresponding to who we choose to put in first place.
+2. As previously established, each group has two ballots in it because there are two ways to rank the remaining two candidates.
+3. We conclude that there are $$2\times3 = 3! 6$$ ways to fill out a ballot with three candidates.
+
+By now you may see the strategy here.  By choosing one candidate to go first, we're left with only two candidates, and we already determined how many ways there are to rank them.  We get to reuse our old work.  And we can keep going!  Let's see how it works with four candidates.
+
+1. There are four groups corresponding to who we choose to put in first place.
+2. There are $$3!$$ ballots in each group because that's how many ways there are to rank the remaining three candidates.
+3.  There are $$4\times3! = 4\times3\times2\times1 = 4! = 24$$ ways to fill out a ballot with three candidates.
+
+We see that this keeps repeating.  For 5 candidates we would have 5 groups and $$4!$$ ballots per group for $$5\times 4!=5!$$ ballots.  This pattern continues and we conclude that there are $$N!$$ ways to fill out a ballot with $$N$$ candidates.  This type of reasoning is called **inductive reasoning**.  There's a little more to it if you want to make it rigorous, but this is fine for our level of discussion.  Note that what we've done only applies to full preference ballots.  Truncated preference ballots will have to wait.
+
 ## Learning Objectives
 * Identify the elements of an election (voters, candidates, ballot, outcome, method)
 * Construct preference schedules from ballot data
 * Compute information from preference schedules (number of votes, pairwise comparison)
 * Identify when a voting system fails to meet the majority criterion
+* Determine how many ways there are to fill out a preference ballot when there are $$N$$ candidates.
 
 [Next: VT2 - Plurality Method]({{basedir}}/vt2-plurality.html)

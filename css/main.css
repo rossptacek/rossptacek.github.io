@@ -1,3 +1,17 @@
 .center{
     text-align: center
 }
+
+.theorem {
+display: block;
+font-style: italic;
+padding-bottom: 14pt;
+}
+.theorem:before {
+content: "Theorem. ";
+font-weight: bold;
+font-style: normal;
+}
+.theorem[text]:before {
+content: "Theorem (" attr(text) ") ";
+}

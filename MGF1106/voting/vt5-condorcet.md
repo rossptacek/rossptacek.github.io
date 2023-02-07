@@ -54,8 +54,8 @@ There is no trouble using Copeland's method with truncated or incomplete prefere
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1st | A | C | D | B | C | 
 | 2nd | C | B | C | D | D |
-| 3rd |   | D | B |   | B |
-| 4th |   |   | A |   | A |
+| 3rd |   | D | B |   |   |
+| 4th |   |   | A |   |   |
 
 The only thing that we have to watch out for is that sometimes ballots won't be counted in a comparison, and this can change the majority threshold.  The first column won't count at all if we are computing B vs. D because neither candidate is even present on those ballots.  A more subtle issue is how should we count that first column if we are comparing C to B?  Our point of view is that **candidates not ranked on a ballot should be considered as below any candidate that is ranked**.  So those 20 ballots in the first column would count toward C over B.  Here is the auxiliary table for the four candidates.
 
@@ -67,12 +67,12 @@ The only thing that we have to watch out for is that sometimes ballots won't be 
 | D | **X** | **X** | **X** | **X** |
 
 We'll go through each of the six comparisons now.
-* **A vs. B.** A wins in the first column, but loses in the others except the last.  In the last column, neither is listed so neither wins that ballot.  Note that even though B is not listed in the first column, because A is listed we count A as preferered over B.  So it is 20 for A and 10+6+4=20 for B, and A and B tie.
+* **A vs. B.** A wins in the first column, but loses in the others except the last.  In the last column, neither is listed so neither wins that ballot.  Note that even though B is not listed in the first column, because A is listed we count A as preferred over B.  So it is 20 for A and 10+6+4=20 for B, and A and B tie.
 * **A vs. C.** A wins in the first column with 20.  C wins in the other columns.  The exception is the fourth column where neither A nor C is listed.  So it is 20 for A and 10+6+1=17 for C, so A wins.
-* **A vs. D.** A wins by default in the first column for 20 votes.  Hoewever, D wins in all of the other columns for 10 + 6 + 4 + 1 = 21 votes.  So D wins.
+* **A vs. D.** A wins by default in the first column for 20 votes.  However, D wins in all of the other columns for 10 + 6 + 4 + 1 = 21 votes.  So D wins.
 * **B vs C.** C wins in every column except the one where it is not present for an overwhelming victory.
 * **B vs D.**  B wins in the second and fourth columns for 10 + 4 = 14 votes while D wins in the third and fifth for 6 + 1 = 7 votes.  So B wins.
-* **C vs. D.** C wins in all columns except the fourth.  That makes 20+10+6+1=37 for C and 4 for D so C wins.
+* **C vs. D.** C wins in all columns except the third and fourth.  That makes 20+10+1=31 for C and 10 for D so C wins.
 
 The final matchup table looks as follows.
 
