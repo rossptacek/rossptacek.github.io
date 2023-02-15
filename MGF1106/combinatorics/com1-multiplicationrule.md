@@ -130,10 +130,7 @@ At this point it's good to stop and notice that on step $i$ the number of choice
 
 The multiplication rule says that there are 
 $$N\times(N-1)\times\cdots\times(N-k+1)$$
-different $k$-permutations.  The product above has $k$ different factors in it.  And this is the best way to remember it.  The number of $k$-permutations is found by taking the 
-
-> **Warning**
-> asdf
+different $k$-permutations.  The product above has $k$ different factors in it.  And this is the best way to remember it.  Just take the first $k$ factors of $N!$.
 
 This is an awfully cumbersome expression to write, especially compared to the neat factorial notation for full permutations.  There is a slight improvement that we can make.  Observe that
 
@@ -146,11 +143,27 @@ A common notation for the number of $k$-permutations is $\_{N}P_{k}$.
 
 <div class="theorem">
 The number of $k$-permutations of a set with $N$ elements is denoted ${}_{N}P_k$ and 
-$${}_{N}P_k = \frac{N!}{(N-k)!}$$.
+$${}_{N}P_k = \frac{N!}{(N-k)!}.$$
 </div>
 
-<div class="example">
+<div class=note>
+When counting the number of $k$-permutations, think of it as multiplying the first $k$ numbers from $N!$.  The formula above can be hard to remember.
+</div>
+
+
+<div class="example" markdown="1">
 [Wikipedia](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger_filmography) says that there were 49 Arnold Schwarzneggar movies.  So, in theory, there are 
 
-$${}_{49}P_3 = \frac{49\times 48\times 47$
+$${}_{49}P_3 = 49\times 48\times 47 = 110544$$
+
+possible ways to come up with a top-three ranking.  Note that we're using a bit of shorthand here because the full formula is much more difficult to implement.  We would have
+
+$$\begin{align*}
+{}_{49}P_3 & = \frac{49!}{(49-3)!} = \frac{49!}{46!} &&(*) \\[1em]
+&= \frac{49\times 48\times 47\times 46!}{46!} \\[1em]
+&= 49\times 48\times 47 = 110544
+\end{align*}$$
+
+On the line marked $(*)$ it is possible that your calculator could evaluate this expression, but it might be too large.  $49!$ alone is $6.08281864\times10^{62}$.  You'll likely need to do the cancellation as in the rest of the steps.
 </div>
+
