@@ -1,11 +1,19 @@
 .center{
-    text-align: center
+    display: block;
+    margin: 0 auto 0.55em;
+    text-align: center;
 }
 
 .theorem {
 display: block;
 font-style: italic;
-padding-bottom: 14pt;
+padding-top: 1ex;
+padding-left: 1em;
+padding-right: 1em;
+padding-bottom: 1ex;
+border: 2px solid RoyalBlue;
+border-radius: 10px;
+margin-bottom: 2ex;
 }
 .theorem:before {
 content: "Theorem. ";
@@ -14,4 +22,48 @@ font-style: normal;
 }
 .theorem[text]:before {
 content: "Theorem (" attr(text) ") ";
+}
+
+.example {
+    display:block;
+    padding-top: 1em; 
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+border: 2px solid BlueViolet;
+border-radius: 10px;
+margin-bottom: 2ex;
+}
+.example:before {
+content: "Example";
+font-weight: bold;
+font-style: normal;
+font-size: larger;
+}
+.example[text]:before {
+content: "Example (" attr(text) ") ";
+}
+
+.definition {
+display: block;
+font-style: italic;
+padding-top: 1ex;
+padding-left: 1em;
+padding-right: 1em;
+padding-bottom: 1ex;
+border: 2px solid Teal;
+border-radius: 10px;
+margin-bottom: 1ex;
+}
+.definition:before {
+content: "Definition. ";
+font-weight: bold;
+font-style: normal;
+}
+.definition[text]:before {
+content: "Definition (" attr(text) ") ";
+}
+
+.definition div ul{
+    margin-bottom:0.5ex;
 }
