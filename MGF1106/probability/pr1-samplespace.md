@@ -53,16 +53,11 @@ Suppose that a coin is flipped twice in a row.  Each coin has two outcomes, head
 | H | $(H,H)$ | $(T,H)$  |
 | T | $(H,T)$ | $(T,T)$  |
 
->**Note:**
->If we had flipped the coin three times in a row, we would extend this to an ordered triple.  That is $(H,T,H)$ would indicate heads on the first and third flips and tails on the second.
-
+* If we had flipped the coin three times in a row, we would extend this to an ordered triple.  That is $(H,T,H)$ would indicate heads on the first and third flips and tails on the second.
 * Since the parentheses and commas can quickly clutter our work, we often employ a shorthand where for example we would write $HTH$ instead of $(H, T, H)$.
 * With the shorthand, the above sample space is $\lbrace HH, HT, TH, TT\rbrace$ which is much more readable than $\lbrace(H,H), (H,T), (T,H), (T,T)\rbrace$
 
 </div>
-
->**Note**
->asdf
 
 <div class="example" markdown="1">
 Suppose that a standard four-sided die (sample space $\lbrace 1, 2, 3, 4\rbrace$) is rolled twice.  The sample space can be written in a table as follows:

@@ -54,15 +54,18 @@ Whenever we study something mathematically, we must be very precise about the ki
 
 Anything that can be described in terms of these five factors is mathematically considered to be an election.
 
-### Example: Cy Young Award
+<details class="example" markdown="1"> 
+<summary>Cy Young Award</summary>
 In Major League Baseball (MLB), the Cy Young Award is given to the top pitchers.  A quirk of MLB is that there are two leagues which rarely play one another, so one award is given to the top pitcher in each league.  We'll focus on just a single league for now.  Every member of the Baseball Writers' Association of America is allowed to cast a ballot.  On the ballot they indicate their choices for the top five pitchers in each league (first, second, third, fourth, and fifth.)  The votes are tallied according to what is called a Borda count.  We'll devote an entire section to the Borda count, so we'll ignore the details for now.
 * The **voters** are the members of the Baseball Writers' Association.
 * The **candidates** are all of the pitchers in the MLB.
 * The **ballot** is a truncated preference ballot.  Of all of the candidates, only the top five are placed on the ballot.
 * The **outcome** is a little less straightforward.  The Cy Young voting procedure does produce a ranking of every candidate, but only the winner is required.  So the outcome is best described as winner-only.
 * The **voting method** is something called a Borda count, but again this will wait for later for full details.
+</details>
 
-### Example: American Idol
+<details class="example" markdown="1">
+<summary>American Idol</summary>
 American Idol is a long-running American television show where amateur singers compete with the eventual winner receiving a recording contract.  A main feature of this show is that the contestants are eliminated episode-by-episode according to the audience's vote.  The audience members indicate who their favorite singer is.  The contestant who receives the fewest votes on a given episode is eliminated.
 
 * **Voters:** Just about anyone can vote on American Idol.  Multiple times even!
@@ -70,8 +73,10 @@ American Idol is a long-running American television show where amateur singers c
 * **Ballot:** The ballot is a single-choice ballot.  Ballots are cast in each episode, and a voter may cast multiple ballots for a single episode.
 * **Outcome:**  The show ends with a single winner, but it's easy to imagine that it produces a ranking of the candidates.  The first singer who is eliminated is in last place, the next singer who is eliminated is in second-to-last place, and so on until the last one standing is the winner.
 * **Voting Method:**  There are a few interesting features of this.  As already mentioned, American Idol does not use the "one person one vote" standard that most elections follow.  The second is that voting proceeds by rounds.  Typically, elections with multiple rounds are called runoff elections.  We'll study voting methods called elimination methods which are similar to what is done for American Idol.
+</details>
 
-### Example: Mario Kart
+<details class="example" markdown=1>
+<summary>Mario Kart</summary>
 Many sports contests use a scoring system to determine a winner or a ranking of players.  This fits the mathematical definition of an election!  In Mario Kart, players race through a certain number of tracks.  In each track, they are awarded points depending on the position in which they finish.
 
 <img src="{{imgdir}}/MarioKart-Results.jpg" alt="Results screen of a Mario Kart race">
@@ -82,6 +87,7 @@ After the races are over, players are ranked based on their point totals.
 * **Ballot:** The ballot is a full preference ballot.  Candidates are ranked on each track by their finishing position.
 * **Outcome:**  The result is a full ranking of the racers based on the total number of points which they have accumulated.
 * **Voting Method:**  Voting methods where each player is awarded points based on their ranking on each ballot are called **Borda counts**.  This is very similar to the previous Cy Young example.  We will study this type of voting method in detail.
+</details>
 
 ## Tiebreakers
 It is unavoidable that voting methods will sometimes produce a tie.  Some additional procedure needs to be tacked on to determine how to break the tie.  We will not go into much detail on tie-breaking procedures because they can become overly complicated.  We will just note that preference ballots provide more ability to break ties than single choice ballots.  With single choice ballots there is nothing you can do if two candidates have the same number of votes.  On the other hand, with preference ballots you can start looking at how the candidates fared in other ballot positions.  Among the tied candidates you could choose the one with fewer last place votes, the most first place votes, or any number of procedures.
@@ -137,7 +143,8 @@ Just like a single preference ballot can be put in printed names format, a prefe
 
 The same information is present in each table, but we will prefer the first version, not the printed names version, for this class.
 
-### Example: Reading Information From Preference Schedules
+<details class="example" markdown="1">
+<summary>Reading Information From Preference Schedules</summary>
 We'll use the preference schedule from above: 
 
 |\# Voters | 10 | 5 | 2 | 2 |
@@ -149,6 +156,7 @@ We'll use the preference schedule from above:
 
 * We can count the number of ballots cast by summing up the numbers in the first row.  We know from the example before that 19 ballots were cast in this election, and indeed we can recover this by computing $$10+5+2+2=19$$.
 * We can count the number of second place ballots that candidate B has by looking in the "2nd" row and adding the vote count of the columns which have B present.  In this example, that would be the first and second columns with $$10+5=15$$ total second place votes.
+</details>
 
 ## Pairwise Comparisons
 An important bit of information we can compute from a preference schedule is a **pairwise comparison** or **head-to-head matchup**.  In a pairwise comparison we imagine what would happen if two of the candidates faced off, ignoring the rest.  Because the preference schedules hold complete preference information, we can play "what if" and block out the other candidates.

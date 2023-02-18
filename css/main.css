@@ -34,14 +34,35 @@ border: 2px solid BlueViolet;
 border-radius: 10px;
 margin-bottom: 2ex;
 }
-.example:before {
-content: "Example";
+
+div.example::before{
+    font-weight: bold;
+    font-style: normal;
+    font-size: larger;
+    content: "Example";
+}
+div.example[text]::before{
+    content: "Example ("attr(texT)")";
+}
+
+details[open] summary{
+    margin-bottom: 1ex;
+}
+
+.example summary{
 font-weight: bold;
 font-style: normal;
 font-size: larger;
 }
-.example[text]:before {
-content: "Example (" attr(text) ") ";
+.example summary::before{
+    content: "Example";
+}
+.example summary:not(:empty)::before {
+    content: "Example (";
+}
+
+.example summary:not(:empty)::after {
+    content: ")\a";
 }
 
 .definition {
@@ -81,7 +102,26 @@ content: "Definition (" attr(text) ") ";
 margin-bottom: 2ex;
 }
 .note:before {
-content: "\01f4dd Note:";
+content: "\01f4dd  Note:";
+font-weight: bold;
+font-style: normal;
+font-size: larger;
+}
+
+.warning {
+    display:block;
+    padding-top: 0.5em; 
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+    border: 1px solid Khaki;
+    border-left: 5px solid Gold;
+    background-color: LightYellow;
+/*border-radius: 10px;*/
+margin-bottom: 2ex;
+}
+.warning:before {
+content: "\26a0\fe0f  Warning:";
 font-weight: bold;
 font-style: normal;
 font-size: larger;
