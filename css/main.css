@@ -1,7 +1,12 @@
 .center{
     display: block;
-    margin: 0 auto 0.55em;
+    margin: 0 auto 0;
     text-align: center;
+}
+
+figcaption{
+    text-align:center;
+    padding: 1em;
 }
 
 .theorem {
@@ -49,19 +54,19 @@ details[open] summary{
     margin-bottom: 1ex;
 }
 
-.example summary{
+.example > summary{
 font-weight: bold;
 font-style: normal;
 font-size: larger;
 }
-.example summary::before{
+.example > summary::before{
     content: "Example";
 }
-.example summary:not(:empty)::before {
+.example > summary:not(:empty)::before {
     content: "Example (";
 }
 
-.example summary:not(:empty)::after {
+.example > summary:not(:empty)::after {
     content: ")\a";
 }
 

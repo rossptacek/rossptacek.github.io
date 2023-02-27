@@ -50,7 +50,7 @@ It is important that any shirt can go with any pants.  It is important to the mu
 
 It's not a big jump to get to the general version of the multiplication rule.
 <div class="theorem" text="Multiplication Rule">
-Suppose that a random process has many steps, and that the number of possible outcomes at each step is fixed <strong>regardless of how any other step occurs</strong>.  Then the total number of outcomes is found by multiplying the numbers of possible outcomes at each step together.
+Suppose that a random process has many steps, and that the number of possible outcomes at each step is fixed <strong>regardless of how any other step occurs</strong>.  Then the total number of possibilities is found by multiplying the numbers of possible outcomes at each step together.
 </div>
 
 Let's look at a few examples.

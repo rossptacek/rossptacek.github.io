@@ -8,7 +8,7 @@ title: "COM2: Counting Subsets"
 {% assign imgdir = basedir| append: "/images" %}
 
 # When Order is Irrelevant
-The counting that we used the multiplication rule for was explicitly **ordered**.  We always had a first step, a second step, and so on.  Furthermore, we had that every different selection arrived at a different result.  Let's look at an example where this is not the case.  Let's start with the set of primary colors
+The counting that we used the multiplication rule for was explicitly **ordered**.  We always had a first step, a second step, and so on.  However, the multiplication rule gives us the number of ways to carry out the steps, not necessarily the number of possible *results* because it may be that multiple ways of carrying out the process give the same result.  We'll look at the example where the number of ways to carry out the process and the number of results differ.  Let's start with the set of primary colors
 
 $$P =\lbrace \text{Red}, \text{Blue}, \text{Yellow} \rbrace. $$
 
@@ -17,26 +17,31 @@ We'll perform the following procedure:
 2. Pick a different primary color, and (**2 options**)
 3. Mix the two colors together.  (**1 option**)
 
-The multiplication rule would say that there are $$3\times 2\times 1 = 6$$ ways that
-this could be carried out.  We can even list all of the possible options out:
+The multiplication rule says (correctly) that there are $$3\times 2\times 1 = 6$$ ways that this could be carried out.  We can even list all of the possible options out:
 
 $$\begin{array}{ccc}
-(\text{Red},\text{Blue}) & (\text{Red},\text{Yellow}) & (\text{Blue},\text{Yellow}) & \\
-(\text{Blue},\text{Red}) & (\text{Yellow},\text{Red}) & (\text{Yellow},\text{Blue}) & \\
+(\text{Red},\text{Blue},\text{Mix}) & (\text{Red},\text{Yellow},\text{Mix}) & (\text{Blue},\text{Yellow},\text{Mix}) & \\
+(\text{Blue},\text{Red},\text{Mix}) & (\text{Yellow},\text{Red},\text{Mix}) & (\text{Yellow},\text{Blue},\text{Mix}) & \\
 \end{array}$$
 
 However, there are not really six possibilities for the final result.  That third step of mixing the colors together removes some of the variation.  The order in which the colors are chosen does not influence the final, mixed color.
-* Both $(\text{Red},\text{Blue})$ and $(\text{Blue},\text{Red})$ yield Purple
-* Both $(\text{Red},\text{Yellow})$ and $(\text{Yellow},\text{Red})$ yield Orange
-* Both $(\text{Blue},\text{Yellow})$ and $(\text{Yellow},\text{Blue})$ yield Green
+* Both $(\text{Red},\text{Blue},\text{Mix})$ and $(\text{Blue},\text{Red},\text{Mix})$ yield Purple
+* Both $(\text{Red},\text{Yellow},\text{Mix})$ and $(\text{Yellow},\text{Red},\text{Mix})$ yield Orange
+* Both $(\text{Blue},\text{Yellow},\text{Mix})$ and $(\text{Yellow},\text{Blue},\text{Mix})$ yield Green
 
 ## Dividing Duplicates
-What we learned from the above example is that **every possible ordering of the same subset** gave a duplicate result.  So when counting subsets of a particular size, we always have to **divide by the number of ways to order the subset** to account for duplicates.
+In the opening example we saw that what we really want to do is
+
+1. Pick a subset of two colors from the set of primary colors, and
+2. Mix them together.
+
+When choosing colors in a sequence **every possible ordering of the same subset** gave a duplicate result.  Our strategy will be to **divide by the number of ways to order the subset** to account for duplicates.  In the above example, we saw that there are two ways to order the subset of size two, so we would need to divide by two to get the correct count.
 
 <div class="warning">
 In the previous section we counted the number of subsets of <strong>any size</strong> a set has.  Here, we are considering only subsets <strong>of a particular size</strong>.  In the prior example, we picked two colors, so we only consider subsets of size 2.
 </div>
 
+Let's look at another example of selecting a subset.
 <div class="example" markdown="1">
 Suppose that there is a team of five people: Alice, Bob, Carol, Derek, and Ellen.  The team needs to send three members off to a conference.  How many different teams can be sent?
 
@@ -52,7 +57,8 @@ $(\text{Alice}, \text{Bob}, \text{Carol})$ and $(\text{Bob}, \text{Carol}, \text
 So if we have a set with $N$ objects, and we want to make a subset of size $k$, we do the following general procedure.
 1. Count the number of ways the subset could be made in sequential order.
   * Previously, we called this the number of $k$-permutations or ${}_NP_k$.
-  * A formula for ${}_NP_k$ is $\frac{N!}{(N-k)!}$, but it's always possible to recover this with the multiplication rule as we did in the above example.
+  * A formula for ${}_NP_k$ is $\frac{N!}{(N-k)!}$, but 
+  * It's always possible to just use the multiplication rule directly as we did above. 
 2. Divide out the number of ways the subset can be ordered.
   * We know that $k$ elements can be ordered $k!$ ways.
 3. Then there are $\frac{ {}_NP_k}{k!} = \frac{N!}{(N-k)!k!}$ different subsets of size $k$. 
@@ -74,7 +80,11 @@ Counting problems come in two main types depending on whether the order of selec
 </div>
 
 <div class="note">
-	The formula can be hard to plug into. It's often better to break it up into steps.  First count the $k$-permutations and divide by $k!$.
+The formula can be hard to plug into. It's often better to break it up into steps.  First count the $k$-permutations and divide by $k!$.  All together this means that ${}_N C_k$ can be found by multiplying the first $k$ numbers in $N!$ and then dividing by $k!$.
+
+$$ {}_N C_k = \frac{N\times(N-1)\times\cdots\times(N-k+1)}{k\times(k-1)\times\cdots\times2\times 1!}.$$
+
+Both numerator and denominator have $k$ factors.
 </div>
 
 <details class="example">
