@@ -7,7 +7,18 @@ title: "VT2: The Plurality Method"
 {% assign basedir = site.url| append: "/MGF1106/voting" %}
 {% assign imgdir = basedir| append: "/images" %}
 
+# The Plurality Method
+
 Our first voting method is the one that looks the most like the voting you're used to.  The winner of an election under the plurality method is the candidate who obtains the **most first place votes**.  If a ranking is desired as an outcome rather than just a winner, then the candidates are ranked according to how many first place votes they get.  Sometimes you'll see this voting method called **first past the post** voting.
+
+<div class="procedure" text="Plurality Method" markdown="1">
+To compute a ranking according to the plurality method:
+1. **Compute the number of first place votes each candidate has.**
+   * In a standard preference schedule, this means adding up the counts in all of the columns in which a candidate appears in the "1st" row of the table.
+   * In a "printed names" preference schedule (less common) this means adding up the counts in all of the columns in in the candidate's row which read "1st".
+2. **The ranking is given by the number of first place votes each candidate receives.**
+   * The candidate with the highest vote count is 1st, second highest is 2nd and so on.
+</div>
 
 ### Example
 Here's an election with three candidates.
@@ -76,7 +87,7 @@ There does not need to be a Condorcet Candidate.  It is possible for the pairwis
 In the simple election above we see how this might happen.  A beats B (2 to 1) and B beats C (2 to 1).  It's tempting to think that winning a pairwise comparison makes that candidate better than their opponent.  So A would be better than B and B would be better than C.  If that were the case, we would be confident to say that A is better than C.  If preferences were **transitive** we could make this assertion, but if you look at the preference schedule you can clearly see that C is actually preferred to A (2 to 1).  So the preferences are **nontransitive**.  When preferences are nontransitive, there is a cycle of candidates who beat eachother like in Rock Paper Scissors.  
 
 <figure>
-    <img src="{{imgdir}}/Condorcet-Cycle.svg" alt="A Condorcet cycle."/>
+    <img class="center" src="{{imgdir}}/Condorcet-Cycle.svg" alt="A Condorcet cycle."/>
     <figcaption> A beats B, B beats C, and C beats A.</figcaption>
 </figure>
 

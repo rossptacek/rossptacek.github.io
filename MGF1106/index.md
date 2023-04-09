@@ -3,7 +3,7 @@ layout: page
 usemathjax: true
 title: "MGF1106 Overview"
 ---
-
+	
 <script type="text/javascript" async
  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -29,3 +29,10 @@ title: "MGF1106 Overview"
   * [PR2 - Distributions]({{basedir}}/probability/pr2-distributions.html)
   * [PR3 - Expectation]({{basedir}}/probability/pr3-expectation.html)
   * [PR4 - Variance]({{basedir}}/probability/pr4-variance.html)
+* Data
+  * [DAT1 - Types of Data]({{basedir}}/data/dat1-intro.html)
+  * [DAT2 - Percentiles]({{basedir}}/data/dat2-percentiles.html) 
+
+* Normal Distributions
+  * [NRM1 - Introduction]({{basedir}}/normality/nrm1-intro.html) 
+
