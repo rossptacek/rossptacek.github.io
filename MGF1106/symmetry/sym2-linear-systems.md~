@@ -1,0 +1,28 @@
+---
+layout: page
+title: "SYM2: Linear Systems"
+---	
+
+{% assign basedir = site.url| append: "/MGF1106/symmetry" %}
+{% assign imgdir = basedir| append: "/images" %}
+
+# Linear Systems
+
+When studying rigid motions, we'll find that everything can everything relies on being able to draw lines in particular directions and being able to find the intersection between lines.
+These tasks can be accomplished with algebra, but we will do it purely geometrically by drawing the lines on grid paper.
+To define a line, one needs two pieces of information.
+1. A point from which the line will begin, and
+2. A direction in which the line will extend (both forwards and backwards).
+
+Picking an initial point is as simple as putting your pencil down on the paper, so most of this section will be devoted to how direction is handled.
+
+## Vectors
+If we only want to describe a direction, we could just use an angle.
+Indeed, we could accomplish our goals with just angles, but translating angles to points on our grid paper would require introducing trigonometry.
+Instead, we'll handle direction using **vectors**.
+A **vector** is a mathematical object which records both a direction and a magnitude.
+Vectors will prove useful when we're talking about translations.
+Geometrically, vectors are represented by arrows.
+
+<img src="{{imgdir}}/rigidmotion2.svg" alt="The mirror image of the letter R" class="center">
+

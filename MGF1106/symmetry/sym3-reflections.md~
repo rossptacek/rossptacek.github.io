@@ -1,0 +1,89 @@
+---
+layout: page
+title: "SYM3: Reflections"
+---	
+
+{% assign basedir = site.url| append: "/MGF1106/symmetry" %}
+{% assign imgdir = basedir| append: "/images" %}
+
+# Reflections
+
+The first type of rigid motion which we'll study in detail is the reflection.
+Reflections transform an object into its mirror image.
+The exact result will depend on where exactly the mirror is placed.
+
+## Axis of Reflection
+
+To define a reflection, we need only specify a line which represents the mirror.
+This line is called the **axis of reflection**.
+Every point on one side of the axis of reflection will be moved the other side of the axis.
+
+<figure class="center">
+<img src="{{imgdir}}/reflection-example.svg" alt="Left hand reflected to right hand." class="center">
+<figcaption> A hand is reflected across the axis of reflection $\ell$.  A particular point $P$ and its image $P'$ are also shown.
+</figcaption>
+</figure>
+
+In the figure above we can see a gray hand which is moved to its mirror image in blue.
+The axis of reflection is the vertical line marked $\ell$.
+We see that the not only are points on the left of $\ell$ moved to the right, but also the distance from points to the axis of reflection are preserved.
+For the marked point $P$, we see that the distance from $P$ to $\ell$ is the same as the distance from $P'$ to $\ell$.
+
+It's intutive in the example above, but when we talk about the distance from a point to a line we are talking about the *perpendicular* distance.
+The vector from a point to its image should be perpendicular to the line of reflection, as illustrated in the figure below.
+
+<figure class="center">
+<img src="{{imgdir}}/reflection-example-2.svg" alt="Left hand reflected to right hand." class="center">
+<figcaption> A hand is reflected across diagonal axis of reflection $\ell$.
+The vector from the point $P$ to its image $P'$ is perpendicular to $\ell$.
+</figcaption>
+</figure>
+
+From this, we can find the following procedure to find the images of points
+under a reflection.
+
+<div class="procedure" text="Image Under Reflection" markdown="1">
+Suppose that we are given the following:
+
+* An axis of reflection, $\ell$ and
+* A point $P$.
+
+We can find the image of $P$ under the reflection with the following steps.
+
+1. Draw the line $\ell_\perp$ which passes through $P$ and is perpendicular to $\ell$.
+2. Find the intersection of $\ell$ and $\ell_\perp$ and call it $X$
+3. Find the vector $\vec{x}$ from $P$ to $X$.
+4. $P'$ is found by following $\vec{x}$ starting from $X$
+</div>
+
+<div class="example" markdown="1">
+Suppose we are given the following point and axis of reflection.
+<img src="{{imgdir}}/reflection-example-3-1.svg" alt="A point and axis of reflection." class="center">
+
+Let's find the image of $P$.  We'll do the first two steps simultaneously.
+1. Draw the line $\ell_\perp$ which passes through $P$ and is perpendicular to $\ell$.
+2. Find the intersection of $\ell$ and $\ell\_\perp$ and call it $X$
+  <img src="{{imgdir}}/reflection-example-3-2.svg" alt="Intersection of line and perpendicular." class="center">
+  In the image above, we took two points on $\ell$ to find a vector $\vec{v}$ in the direction of $\ell$.
+  Then, we found a perpendicular vector $\vec{v}\_\perp$ and used it to draw a line from $P$.
+  This line is denoted $\ell\_\perp$.
+  Finally, we marked $X$ as the intersection of $\ell$ and $\ell\_\perp$.
+  We'll also do the next two steps simultaneously.
+3. Find the vector $\vec{x}$ from $P$ to $X$.
+4. $P'$ is found by following $\vec{x}$ starting from $X$
+    <img src="{{imgdir}}/reflection-example-3-3.svg" alt="Intersection of line and perpendicular." class="center">
+
+<div class="note">
+In this case the vector from $P$ to $\ell$ ($\vec{x}$) just so happened to be the same as the perpendicular vector ($\vec{v}_\perp$) we found.  It will not always be so.  Remember that we had a variety of choices for choosing the vector along the line.
+</div>
+</div>
+
+## Determining a Reflection
+
+Given a point and its image under a reflection, we can determine the rotation which moved the point by working backwards.
+First, we know that the line should be equidistant from the point and its image, and second, we know that the line should be perpendicular to the vector from the point to its image.
+In other words, the axis of reflection is just the perpendicular bisector between $P$ and $Q$.
+
+
+
+

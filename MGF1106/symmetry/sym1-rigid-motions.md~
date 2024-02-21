@@ -1,0 +1,10 @@
+---
+layout: page
+title: "NRM1: Introduction"
+---	
+
+{% assign basedir = site.url| append: "/MGF1106/symmetry" %}
+{% assign imgdir = basedir| append: "/images" %}
+
+# Rigid Motions
+

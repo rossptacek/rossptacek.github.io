@@ -1,0 +1,20 @@
+---
+layout: page
+title: "SYM4: Glide Reflections"
+---	
+
+{% assign basedir = site.url| append: "/MGF1106/symmetry" %}
+{% assign imgdir = basedir| append: "/images" %}
+
+# Glide Reflections
+
+A **glide reflection** is the composition of a reflection followed by a translation along the axis of reflection.
+A common example of a glide reflection is a pair of footprints as a person walks.
+The footprints are mirror images, but because the person is walking, the footprints are separated.
+
+<figure class="center">
+<img src="{{imgdir}}/glide-footprints.svg" alt="To get from one footprint ($F$) to the next ($F'$), the foot is reflected and then translated." class="center">
+<figcaption> A hand is reflected across the axis of reflection $\ell$.  A particular point $P$ and its image $P'$ are also shown.
+</figcaption>
+</figure>
+

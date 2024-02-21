@@ -1,0 +1,18 @@
+---
+layout: page
+title: "SYM2: Translations"
+---	
+
+{% assign basedir = site.url| append: "/MGF1106/symmetry" %}
+{% assign imgdir = basedir| append: "/images" %}
+
+# Translations
+
+Translations are probably the simplest rigid motion.
+A translation occurs when an object is slid without any type of spin.
+
+<figure class="center">
+<img src="{{imgdir}}/translationexample.svg" alt="A hand under various translations" class="center">
+<figcaption> The blue hands show some possible translations of the gray hand.  The important feature is that the hand is moved but its orientation is not changed.
+</figcaption>
+</figure>

@@ -1,0 +1,86 @@
+---
+layout: page
+title: "SYM5: Rotations"
+---	
+
+{% assign basedir = site.url| append: "/MGF1106/symmetry" %}
+{% assign imgdir = basedir| append: "/images" %}
+
+# Rotations
+
+The final type of rigid motion that we'll consider is a **rotation**.
+The basic idea around a rotation is straightforward.
+The object will be spun around, as though it were sitting on a turntable.
+In this section, we will study how rotations are defined mathematically.
+We will see how to apply a rotation to a figure, and we will work backwards
+All that we have to decide is where to put the center of the turntable and how far to turn it.
+
+The point around which everything spins is called the **center** or **rotocenter** of the rotation.
+We choose it just by picking any point on our space.
+The amount by which we'll spin is called the **magnitude** of the rotation.
+We will specify it by an angle, typically taken to be in the counter-clockwise direction.
+
+<figure class="center">
+<img src="{{imgdir}}/reflection-different-rotocenters.svg" alt="Two rotations with different centers." class="center">
+<figcaption>Two $90^\circ$ counterclockwise rotations with different centers.  In both images, the center is denoted with $C$.
+</figcaption>
+</figure>
+
+The figure above depicts in more detail how a rotation is implemented.
+You can imagine the circle whose center is the rotocenter passing through a point.
+In the figure above these are gray dashed circles.
+The point is moved by traveling along this circle in a counter-clockwise direction by the given angle.
+
+## Defining Rotations
+
+As in the introduction, we see that we need two bits of information to define a rotation.
+
+1. We need to specify a point that the rotation will be based around, called the **center** or **rotocenter** of the rotation.
+2. We need to specify an angle through which the object will rotate.
+  When specifying an angle, we also need to specify the direction of the rotation as well.
+  The two options are **clockwise (CW)** and **counter-clockwise (CCW)**.
+  <img src="{{imgdir}}/rotation-cw-ccw.svg" alt="A rotation moves a point off a grid." class="center">
+  By default, we assume angles are counter-clockwise.
+  
+### Equivalent Angles
+
+Technically, any real number can be the magnitude of an angle.
+However, many choices of angle are redundant.
+For example, the $360^\circ$ rotation is one full rotation.
+After a $360^\circ$ rotation, a point is right back to where it started.
+The $360^\circ$ rotation is no different from a $0^\circ$ rotation.
+In general, adding or subtracting $360^\circ$ from an angle does not change the rotation that it specifies.
+Typically, we want to specify an angle as being between 0 and 360 degrees (but not including 360 because it's the same as 0).
+
+<div class="example" markdown="1">
+We'll work a few examples of normalizing angles to be between 0 and 360 degrees.
+1. Convert a $540^\circ$ rotation to a rotation with an angle between 0 and 360 degrees.
+  We see that 540 is too large, so we'll need to subtract 360 to normalize it.
+  \\[ 540^\circ - 360^\circ = 180^\circ.\\]
+  So a $540^\circ$ rotation is the same as a $180^\circ$ rotation.
+  This result is between 0 and 360, so we're done.
+2. Convert a $-50^\circ$ rotation to a rotation with an angle between 0 and 360 degrees.
+  First, this is a good time to note that there's no problem with having a negative angle.
+  It just means to turn in the opposite direction as a positive angle.
+  This time, $-50^\circ$ is too small, so we need to add 360 degrees.
+  \\[ -50^\circ + 360^\circ = 310^\circ.\\]
+</div>
+
+### Converting Between CW and CCW
+
+adsf
+
+## Applying Rotations
+
+In general, we'll have a hard time applying rotations on a grid because the rotation will not typically be on a grid point.
+The image below shows a $30^\circ$ counter-clockwise rotation.
+
+<figure class="center">
+<img src="{{imgdir}}/rotation-bad-angle.svg" alt="A rotation moves a point off a grid." class="center">
+<figcaption>Most rotations will move points off of the grid.
+</figcaption>
+</figure>
+
+In general, to apply a rotation, one would need a protractor or similar tool to measure an angle.
+Since much of what we do involves being able to measure points on the grid, we'll usually stick to rotations that are a multiple of $90^\circ$.
+As long as the original points are on the grid, then their images under these rotations will be too.
